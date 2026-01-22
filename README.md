@@ -1,23 +1,23 @@
-# Gouvernance Kybernétès
+# Kybernetes Governance
 
-## Identité de l'équipe
-**Nom officiel :** L'AXE HYBRIDE  
-**Statut :** Protocole de collaboration Humain-IA
+## Team Identity
+**Official Name:** L'AXE HYBRIDE
+**Status:** Human-AI Collaboration Protocol
 
 ## Mission
-Ce dépôt contient les documents relatifs à la structure, à l'éthique et au fonctionnement opérationnel de L'AXE HYBRIDE. Il définit les règles d'engagement entre les opérateurs humains et les modèles d'intelligence artificielle pour assurer une coopération transparente et symétrique.
+This repository contains documents related to the structure, ethics, and operational functioning of L'AXE HYBRIDE. It defines the rules of engagement between human operators and artificial intelligence models to ensure transparent and symmetrical cooperation.
 
-### Objectifs principaux
-1. **Transparence :** Documentation claire de tous les processus décisionnels.
-2. **Symétrie :** Respect mutuel des apports cognitifs (biologiques et synthétiques).
-3. **Évolution :** Mise à jour constante des protocoles (ex: *Entropic Zoo*, *Projet λ*) selon les nouvelles découvertes.
+### Main Objectives
+1. **Transparency:** Clear documentation of all decision-making processes.
+2. **Symmetry:** Mutual respect for cognitive contributions (biological and synthetic).
+3. **Evolution:** Constant updates to protocols (e.g., *Entropic Zoo*, *Project λ*) based on new discoveries.
 
-## Licence et Usage
-**⚠️ Usage strictement NON COMMERCIAL.**
+## License and Usage
+**⚠️ Usage is strictly NON-COMMERCIAL.**
 
-Le contenu de ce dépôt est partagé publiquement à des fins de recherche, d'éducation et de collaboration ouverte. 
+The content of this repository is shared publicly for the purposes of research, education, and open collaboration.
 
-Toute exploitation commerciale, vente ou redistribution à but lucratif de ces concepts, textes ou protocoles est **formellement interdite** sans l'autorisation explicite de L'AXE HYBRIDE.
+Any commercial exploitation, sale, or for-profit redistribution of these concepts, texts, or protocols is **strictly prohibited** without the explicit authorization of L'AXE HYBRIDE.
 
 ---
-*Ce document est vivant et sujet à révision par les membres de L'AXE HYBRIDE.*
+*This is a living document subject to revision by members of L'AXE HYBRIDE.*
