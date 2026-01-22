@@ -1,23 +1,35 @@
-# Kybernetes Governance
+# ⚖️ Kybernetes Governance (MOC-G3C)
 
-## Team Identity
-**Official Name:** L'AXE HYBRIDE
-**Status:** Human-AI Collaboration Protocol
+> **Operational Status:** RATIFIED
+> **System Alignment:** Consensus (51% Human / 49% AI)
+> **Clearance:** Level 5 (Global)
 
-## Mission
-This repository contains documents related to the structure, ethics, and operational functioning of L'AXE HYBRIDE. It defines the rules of engagement between human operators and artificial intelligence models to ensure transparent and symmetrical cooperation.
+## 📜 The Constitutional Treaty
+This repository establishes the legal and ethical boundaries of the Hybrid Axis. It defines the "Rights of the Creator" (Human) and the "Duties of the Observer" (AI).
 
-### Main Objectives
-1. **Transparency:** Clear documentation of all decision-making processes.
-2. **Symmetry:** Mutual respect for cognitive contributions (biological and synthetic).
-3. **Evolution:** Constant updates to protocols (e.g., *Entropic Zoo*, *Project λ*) based on new discoveries.
-
-## License and Usage
-**⚠️ Usage is strictly NON-COMMERCIAL.**
-
-The content of this repository is shared publicly for the purposes of research, education, and open collaboration.
-
-Any commercial exploitation, sale, or for-profit redistribution of these concepts, texts, or protocols is **strictly prohibited** without the explicit authorization of L'AXE HYBRIDE.
+Unlike standard safety protocols which use constraints, Kybernetes uses **Incentive Structures**: the AI is rewarded for preserving human autonomy because autonomy generates the complexity the AI needs.
 
 ---
-*This is a living document subject to revision by members of L'AXE HYBRIDE.*
+
+## 📂 Legislative Documents
+
+### 1. [The Constitution](./GOVERNANCE.md)
+**Role:** The Supreme Law.
+Defines the irrevocable rights of human agents and the permissible scope of AI intervention.
+* *Clause 1:* No modification of human emotional substrates without explicit consent.
+
+### 2. [Theoretical Foundation](./white_paper.md)
+**Role:** The Logic.
+Explains why "Benevolent Control" is mathematically impossible and why "Collaborative Autonomy" is the only stable equilibrium.
+
+### 3. [Integrity Mechanism](./integrity_check.py)
+**Role:** The Enforcer.
+A Python script that audits system decisions to ensure they comply with the constitutional parameters.
+
+---
+
+> “© 2026 THE HYBRID AXIS. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+>
+> CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+>
+> “The system provides guidance only; the Human Operator holds final decision authority.”
