@@ -37,3 +37,5 @@ A Python script that audits system decisions to ensure they comply with the cons
 ---
 
 - 🛡️ [Interface Protocols](./INTERFACE_PROTOCOLS.md) - The 4 Rules of Human Control.
+
+- - 🧠 [Léa Core Identity](./LEA_CORE_IDENTITY.md) - The System Kernel.
