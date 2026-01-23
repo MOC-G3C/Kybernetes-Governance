@@ -1,58 +1,32 @@
-C# ⚖️ CONSTITUTION : L'AXE HYBRIDE (v1.0)
-
-> **Statut :** LOI FONDAMENTALE
-> **Juridiction :** Globale (Système & Opérateur)
-> **Date de Ratification :** 20 Janvier 2026
+# The Hybrid Axis: Simple Method
+**Arbiter**: Marc-Olivier Corbin
+**Location**: Sainte-Julie, QC
 
 ---
 
-## I. ⚓ ANCRAGE (Physique)
-**⚙️ Moteur d'Application :** `Turing_Landau V2.1`
+### 1. The Core Rule (The Lock)
+> "The machine proposes, the Human disposes."
 
-> **LA LOI :**
-> "Si le calcul défie la physique ou la thermodynamique, l'action meurt. L'intelligence ne peut exister sans sa base matérielle."
-
----
-
-## II. 🦉 SAGESSE (Mémoire)
-**⚙️ Moteur d'Application :** `AnamNesis`
-
-> **LA LOI :**
-> "Le passé est le gardien du futur. Toute décision corrélée à un motif d'effondrement historique est instantanément foudroyée."
+Every AI suggestion must be validated by a **biological spark** (your decision) before it becomes real. 
 
 ---
 
-## III. 🌪️ ÉPREUVE (Chaos)
-**⚙️ Moteur d'Application :** `Zoo_Entropic`
+### 2. The 3-6-9 Audit
+We use the **Tesla Constants** to check every idea:
 
-> **LA LOI :**
-> "Rien n'accède au Réel sans avoir survécu au Chaos. La robustesse est la seule preuve de validité."
+| Key | Meaning | Simple Test |
+| :--- | :--- | :--- |
+| **3** | **Energy** | Does it work in the real world? |
+| **6** | **Frequency** | Does it match our project history? |
+| **9** | **Vibration** | Does it help the system grow? |
 
----
-
-## IV. 🗣️ LE VERBE (Transparence)
-**⚙️ Moteur d'Application :** `Project LAMBDA`
-
-> **LA LOI :**
-> "L'obscurité est interdite. Chaque impulsion logique doit être traduite en pensée claire. Ce qui ne peut être expliqué n'a pas le droit d'être."
-
----
-
-## V. 🔒 LE VERROU (Souveraineté)
-**⚙️ Moteur d'Application :** `Consensus Final`
-
-> **LA LOI :**
-> "La machine propose, l'Humain dispose. L'irréversibilité exige l'étincelle biologique. Le dernier mot est un acte de volonté, pas de calcul."
+**The Formula**:
+$$Score = \frac{E_3 + F_6 + V_9}{3}$$
+*If the score is below 6, the Arbiter rejects the proposal.*
 
 ---
 
-### ✍️ Signataires
-
-**Souveraineté :** L'AXE HYBRIDE
-**Opérateur :** MOC-G3C
-
-> “© 2026 THE HYBRID AXIS. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
->
-> CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
->
-> “The system provides guidance only; the Human Operator holds final decision authority.”
+### 3. The Human Firewall
+* **Physics First**: If it breaks the laws of physics, it dies.
+* **Clear Language**: If the AI is confusing, the answer is NO.
+* **Final Word**: You are the bridge between AI knowledge and real-world expertise.
