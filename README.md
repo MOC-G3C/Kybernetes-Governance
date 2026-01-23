@@ -33,3 +33,7 @@ A Python script that audits system decisions to ensure they comply with the cons
 > CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
 >
 > “The system provides guidance only; the Human Operator holds final decision authority.”
+
+---
+
+- 🛡️ [Interface Protocols](./INTERFACE_PROTOCOLS.md) - The 4 Rules of Human Control.
